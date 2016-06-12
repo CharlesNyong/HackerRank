@@ -22,9 +22,9 @@ public class CommonChild {
 		
 		System.out.println(LengthOfCommonString);	
 		
-		for (char i: hmap.keySet()){
-			System.out.println("key: " + i + " value: " + hmap.get(i) + " ");
-		}
+//		for (char i: hmap.keySet()){
+//			System.out.println("key: " + i + " value: " + hmap.get(i) + " ");
+//		}
 //		
 	}
 

@@ -20,7 +20,7 @@ public class CommonChild {
 			}
 		}
 		
-		System.out.println(NumOfCommonString);	
+		System.out.println("Testing");	
 		
 //		for (char i: hmap.keySet()){
 //			System.out.println("key: " + i + " value: " + hmap.get(i) + " ");
